@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breeze & Beam - Wind Data</title>
+    <link rel="stylesheet" href="Wind-Styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header id="banner">
+        <img src="/Simulation/Images/Plug Logo.jpg" alt="Breeze & Beam Logo">
+        <h1>Breeze & Beam - Wind Data</h1>
+        <button onclick="navigateToSolar()">View Solar Data</button>
+    </header>
+        <!-- Graph showing the daily averages of wind power generation over a year -->
+    <section id="wind-chart-section">
+        <h2>Graph of the Daily Wind Power Generation for the Year</h2>
+        <canvas id="windChart"></canvas>
+    </section>
+        <!-- Table showing the differences between actual and predicted daily averages for wind power generation -->
+    <section id="wind-section">
+        <h2>Tabulation of the Daily Wind Power Generation for the Year</h2>
+        <table id="windDataTable">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Actual Wind Generation (MW)</th>
+                    <th>Predicted Wind Generation (MW)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data populated here -->
+            </tbody>
+        </table>
+    </section>
+    <script src="Wind.js"></script>
+</body>
+</html>

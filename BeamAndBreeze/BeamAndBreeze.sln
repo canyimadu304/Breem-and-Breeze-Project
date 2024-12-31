@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeamAndBreeze", "BeamAndBreeze.csproj", "{AFC8FB32-3180-4DB0-B4C1-D277DA697652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreezeAndBeamTesting", "..\BreezeAndBeamTesting\BreezeAndBeamTesting.csproj", "{8F55F2DE-420C-45A9-A681-D583C4F25384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC8FB32-3180-4DB0-B4C1-D277DA697652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC8FB32-3180-4DB0-B4C1-D277DA697652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC8FB32-3180-4DB0-B4C1-D277DA697652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC8FB32-3180-4DB0-B4C1-D277DA697652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F55F2DE-420C-45A9-A681-D583C4F25384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F55F2DE-420C-45A9-A681-D583C4F25384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F55F2DE-420C-45A9-A681-D583C4F25384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F55F2DE-420C-45A9-A681-D583C4F25384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DE9C1D-D94A-46E0-8B90-0F5AE383CCB1}
+	EndGlobalSection
+EndGlobal
