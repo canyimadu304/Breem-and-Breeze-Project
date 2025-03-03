@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\",
+  "WorkspaceRootPath": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|c:\\users\\canyi\\onedrive\\documents\\github\\breem-and-breeze-project\\beamandbreeze\\dataaccess\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:dataaccess\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|f:\\work\\belgium campus\\3rd year\\prj381\\final project\\beamandbreeze\\businesslogic\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:businesslogic\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\dataaccess\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:dataaccess\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\businesslogic\\hydroplantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\businesslogic\\hydroplantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:businesslogic\\hydroplantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\businesslogic\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:businesslogic\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:presentation\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\businesslogic\\dashboardmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\businesslogic\\dashboardmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFC8FB32-3180-4DB0-B4C1-D277DA697652}|BeamAndBreeze.csproj|solutionrelative:businesslogic\\dashboardmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,45 +38,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBAccess.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\DataAccess\\DBAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DBAccess.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\DataAccess\\DBAccess.cs",
+              "RelativeToolTip": "DataAccess\\DBAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:38:10.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CSVHandler.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\DataAccess\\CSVHandler.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CSVHandler.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\DataAccess\\CSVHandler.cs",
+              "RelativeToolTip": "DataAccess\\CSVHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:37:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserManagement.cs",
-              "DocumentMoniker": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\UserManagement.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\UserManagement.cs",
-              "ToolTip": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\UserManagement.cs",
               "RelativeToolTip": "BusinessLogic\\UserManagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:41:30.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T10:41:30.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HydroPlantController.cs",
-              "DocumentMoniker": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\HydroPlantController.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\HydroPlantController.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\HydroPlantController.cs",
-              "ToolTip": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\HydroPlantController.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\HydroPlantController.cs",
               "RelativeToolTip": "BusinessLogic\\HydroPlantController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwEgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:55:27.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T11:55:27.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DashboardManagement.cs",
-              "DocumentMoniker": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\DashboardManagement.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\DashboardManagement.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DashboardManagement.cs",
-              "ToolTip": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\BusinessLogic\\DashboardManagement.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\BusinessLogic\\DashboardManagement.cs",
               "RelativeToolTip": "BusinessLogic\\DashboardManagement.cs",
               "ViewState": "AgIAAA8BAAAAAAAAAAAYwEQBAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,28 +103,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainDashboard.cs [Design]",
-              "DocumentMoniker": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
               "RelativeDocumentMoniker": "Presentation\\MainDashboard.cs",
-              "ToolTip": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs [Design]",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs [Design]",
               "RelativeToolTip": "Presentation\\MainDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:26.226Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-15T20:15:26.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainDashboard.cs",
-              "DocumentMoniker": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
               "RelativeDocumentMoniker": "Presentation\\MainDashboard.cs",
-              "ToolTip": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BeamAndBreeze\\Presentation\\MainDashboard.cs",
               "RelativeToolTip": "Presentation\\MainDashboard.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAcwK0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:22:28.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:22:28.507Z"
             }
           ]
         }

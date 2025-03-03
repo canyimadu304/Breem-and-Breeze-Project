@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreezeAndBeamTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c2c219d5aa7023fbe410065219f45c1c71c6e78")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreezeAndBeamTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreezeAndBeamTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

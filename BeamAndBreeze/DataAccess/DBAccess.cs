@@ -11,7 +11,7 @@ namespace BeamAndBreeze.DataAccess
 {
     internal class DBAccess
     {
-        string connect = "Server = .; Initial Catalog = UserDB; Integrated Security = SSPI";
+        string connect = "Server = christian-asus; Initial Catalog = UserDB; Integrated Security = SSPI";
 
         public DataTable GetEmail()
         {

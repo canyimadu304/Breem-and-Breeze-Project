@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj": {}
+    "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj": {}
   },
   "projects": {
-    "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj": {
+    "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj",
+        "projectUniqueName": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj",
         "projectName": "BreezeAndBeamTesting",
-        "projectPath": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj",
-        "packagesPath": "C:\\Users\\Sippress\\.nuget\\packages\\",
-        "outputPath": "F:\\Work\\Belgium Campus\\3rd Year\\PRJ381\\Final Project\\BreezeAndBeamTesting\\obj\\",
+        "projectPath": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BreezeAndBeamTesting\\BreezeAndBeamTesting.csproj",
+        "packagesPath": "C:\\Users\\canyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyi\\OneDrive\\Documents\\GitHub\\Breem-and-Breeze-Project\\BreezeAndBeamTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sippress\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\canyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
